@@ -3,7 +3,7 @@ A Siemens, uma multinacional de tecnologia, implantou o Red Hat Ansible Automati
 
 Ao implementar essa solução, a equipe de PKI da Siemens pode usar o Ansible no Windows para automatizar tarefas de gerenciamento manuais e aprimorar a segurança das comunicações da empresa.
 
-Leia o estudo de caso completo para saber mais sobre o sucesso da Siemens. [!Estudo de Caso Siemens](https://www.redhat.com/pt-br/resources/siemens-case-study)
+Leia o estudo de caso completo para saber mais sobre o sucesso da Siemens. [Estudo de Caso Siemens](https://www.redhat.com/pt-br/resources/siemens-case-study)
 
 ## Por que escolher a Red Hat para a automação?
 O Red Hat Ansible Automation Platform ajuda as organizações a escalar a automação da TI, gerenciar implantações complexas e governar a automação. Os usuários centralizam e controlam a infraestrutura de TI por meio de um painel gráfico, do controle de acesso baseado em função, de playbooks e de análises de dados para reduzir a complexidade operacional.
